@@ -17,7 +17,7 @@ Greetings Everyone,
 
 ### Projects: ---
 
-* [_Automatic Door Operation System_](https://docs.google.com/presentation/d/1kOLK5K_4AnaJ6_s6G98uq509Nm-n_MEPlyGg2AEXE8Q/edit#slide=id.gc6f90357f_0_0)
+* [_Automatic Door Operation System_](https://docs.google.com/presentation/d/1hKNzboDuB98LEphX4fu8A3Y1wvOOJxK8/edit?usp=sharing&ouid=107735486144818598695&rtpof=true&sd=true)
 *  [_Tachometer_](https://www.linkedin.com/posts/sanjay-varyani-b37367188_speedometer-servo-raspberrypi-activity-6879979189441757184-iONQ?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * Raspberry Pi as a Web Server
 * Digital Electronics Circuits
