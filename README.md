@@ -5,15 +5,16 @@ Greetings Everyone, <br>
 &nbsp; &nbsp; &nbsp;
 I'm a student of Instrumentation and Control System Engineering currently studying in 3rd year from [Dharmsinh Desai University, Nadiad Gujarat](https://www.google.com/maps/place/DHARMSINH+DESAI+UNIVERSITY/@22.6802377,72.87801,17z/data=!3m1!4b1!4m5!3m4!1s0x395e5adf2c171355:0xe1e974ce083657fb!8m2!3d22.6802377!4d72.8801987). 
 
-### BTech Grades:---
+### BTech Grades  (Expected 2024)
 >Dharmsinh Desai University, Nadiad, Gujarat  <br>
-><strong>Net Grades= 7.86 CPI</strong>
+><strong>Grades= 3.24 / 4.00</strong>
+>Equivalent to 76.15%
 
-### HSC Grades
+### HSC Grades    (2019)
 >Gujarati Higher Secondary School, Ajmer, Rajasthan  <br>
 ><strong>% Obtained= 76.60%</strong>
 
-### SSC Grades
+### SSC Grades    (2017)
 >Gujarati Higher Secondary School, Ajmer, Rajasthan  <br>
 ><strong>% Obtained= 73.50%</strong>
 ---
@@ -22,6 +23,7 @@ I'm a student of Instrumentation and Control System Engineering currently studyi
 
 * [_Automatic Door Operation System_](https://docs.google.com/presentation/d/1hKNzboDuB98LEphX4fu8A3Y1wvOOJxK8/edit?usp=sharing&ouid=107735486144818598695&rtpof=true&sd=true)
 *  [_Tachometer_](https://www.linkedin.com/posts/sanjay-varyani-b37367188_speedometer-servo-raspberrypi-activity-6879979189441757184-iONQ?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [_Controlling Power Commands Using A Bash Script_](https://www.linkedin.com/posts/sanjay-varyani_bash-linux-whiptail-activity-6948268862568046592-ZJEL?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * Raspberry Pi as a Web Server
 * Digital Electronics Circuits
 * Relay Module
@@ -30,7 +32,7 @@ I'm a student of Instrumentation and Control System Engineering currently studyi
 
 ---
 
-### Top Skills: ---
+### Skills: ---
 
 1.  HTML  
 2.  Python  
