@@ -23,13 +23,12 @@ I'm a student of Instrumentation and Control System Engineering currently studyi
 
 * [_Automatic Door Operation System_](https://docs.google.com/presentation/d/1hKNzboDuB98LEphX4fu8A3Y1wvOOJxK8/edit?usp=sharing&ouid=107735486144818598695&rtpof=true&sd=true)
 *  [_Tachometer_](https://www.linkedin.com/posts/sanjay-varyani-b37367188_speedometer-servo-raspberrypi-activity-6879979189441757184-iONQ?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* [_Controlling Power Commands Using A Bash Script_](https://www.linkedin.com/posts/sanjay-varyani_bash-linux-whiptail-activity-6948268862568046592-ZJEL?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [_API Based Power Interupts For Linux Users_](https://www.linkedin.com/posts/sanjay-varyani_bash-linux-whiptail-activity-6948268862568046592-ZJEL?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * Raspberry Pi as a Web Server
 * Digital Electronics Circuits
 * Relay Module
 * Back and Forth Direction Motor Driver
 * [Research on Financial Report of ABB Group](https://docs.google.com/presentation/d/1MymWBW51xfO8ovy6RiZbXa8XlH197upp/edit?usp=sharing&ouid=107735486144818598695&rtpof=true&sd=true) 
-
 ---
 
 ### Skills: ---
